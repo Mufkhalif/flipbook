@@ -1,16 +1,5 @@
-# appbook
+# FlipBook Animation
 
-A new Flutter project.
+this example to create flip book animation for book kids, convert pdf to image
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/33028301/210042251-121edff4-89ff-4802-a140-c2c25e327828.mp4
